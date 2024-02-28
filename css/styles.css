@@ -10,6 +10,8 @@ ul,
 ol {
   list-style: none;
 }
+
+/* логотип  */
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -22,6 +24,8 @@ ol {
 .logo-part {
   color: #2e2f42;
 }
+
+/* навігація хедер */
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -34,6 +38,7 @@ ol {
   color: #404bbf;
 }
 
+/* адреса хедер */
 .address {
   font-style: normal;
 }
