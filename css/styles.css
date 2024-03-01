@@ -124,6 +124,7 @@ ol {
 .team-item {
 }
 .team-img {
+  width:264px
 }
 .team-name {
   font-weight: 500;
@@ -154,7 +155,7 @@ ol {
 .portfolio-items {
 }
 .portfolio-img {
-  width: 360px;
+  
 }
 .portfolio-subtitle {
   font-weight: 500;
